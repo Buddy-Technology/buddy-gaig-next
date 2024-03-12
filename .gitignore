@@ -4,3 +4,7 @@ node_modules
 .next
 
 .vscode
+
+# ignoring package locks to prevent registry conflicts with offer-component.
+yarn.lock
+package-lock.json
