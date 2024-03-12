@@ -19,12 +19,11 @@ export default function Home() {
       </Head>
 
       <main>
-				<Nav />
+        <Nav />
         <Hero />
-				<RTB />
-				<Testimonials />
-				<Leagues />
-				<FeaturedTeam />
+        <RTB />
+        <Testimonials />
+        <FeaturedTeam />
       </main>
 
       <Footer />
